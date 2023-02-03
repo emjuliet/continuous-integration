@@ -224,5 +224,5 @@ but with your github username instead of mine.
 > The grader will not know to grade your code unless you also submit it into sakai.
 
 <!--
-Linus Torvalds was here
+Linus Torvalds was here.
 -->
